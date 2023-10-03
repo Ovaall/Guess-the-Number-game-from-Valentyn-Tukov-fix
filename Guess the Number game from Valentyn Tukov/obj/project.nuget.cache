@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rj56UhRnZa8cdB57V8Y9uqg4he+4lJnPHDDOQqLdu1oS/1SPj8diOCnFynvg9kcDB64PyTAFrnI03YvCJaBfHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ValentynTukov\\source\\repos\\Guess-the-Number-game-from-Valentyn-Tukov\\Guess the Number game from Valentyn Tukov\\Guess the Number game from Valentyn Tukov.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ValentynTukov\\source\\repos\\Guess-the-Number-game-from-Valentyn-Tukov\\Guess the Number game from Valentyn Tukov\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.exe
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.deps.json
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.pdb
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\refint\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.pdb
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number game from Valentyn Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\ref\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.exe
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.deps.json
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\bin\Debug\net6.0\Guess the Number game from Valentyn Tukov.pdb
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\refint\Guess the Number game from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.pdb
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\Guess the Number game from Valentyn Tukov.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\Guess-the-Number-game-from-Valentyn-Tukov\Guess the Number game from Valentyn Tukov\obj\Debug\net6.0\ref\Guess the Number game from Valentyn Tukov.dll
