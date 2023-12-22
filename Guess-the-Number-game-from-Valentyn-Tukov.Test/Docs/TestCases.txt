@@ -1,0 +1,16 @@
+﻿Operators	  | Condition	 | Tests
+				
+Random	      | [1 - 100]	 | 1. The Random not less than 1 and not more than 100.
+		
+targetNumbe	  | [1 - 100]	 | 2. The tasgetNumber not less than 1 and not more than 100.
+		
+allAttempts	  | =<10	     | 3. The allAttempts is not bigger than 10.
+		
+attempts	  | =< 10	     | 4. The 'attempts' is not bigger than 10.
+		
+number	      | >0	         | 5. The number should be positive
+	          | 	         |
+	          | number	     | 6. The number - input is a number.
+			  |              | 7. The numner - input should not be an invalid characters.
+
+General       |              | 8.The game should end when guess is correct

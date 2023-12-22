@@ -1,68 +1,80 @@
-﻿using System;
+﻿
+using System;
 
-    namespace GuessTheNumberGameFromValentynTukov
+namespace GuessTheNumberGameFromValentynTukov
 {
-        class Program
-    { 
-        static int MyRandom() 
-        {
-            
-        Random random = new Random();
-        return random.Next(1, 101);
+    public class Program
+    {
 
+        public static int Attempts { get; private set; } = 0;
+        public static int AllAttempts { get; } = 10;
+
+        public static int MyRandom()
+        {
+            Random random = new Random();
+            return random.Next(1, 100);
         }
-    
-        static void Main(string[] args)
+
+        public static void PlayGame(int targetNumber, int allAttempts, TextReader inputReader, TextWriter outputWriter)
         {
+          
 
-            Console.WriteLine("Hi, this is the Guess the Number game!");
-            Console.WriteLine("A number from 1 to 100 inclusive was guessed. You have 10 attempts. Try to guess the number!");
+            Attempts = 0;
 
-            
-            int attempts = 0;
-            int allAttempts = 10;
-           
-            int targetNumber = MyRandom();  
-            while (attempts < allAttempts)
+            while (Attempts <= allAttempts)
             {
-               
+                Attempts++;
 
-                attempts ++;
+                outputWriter.WriteLine($"It is your {Attempts} attempt. Type the number and press ENTER");
 
-                Console.WriteLine("It is your " + attempts + " attemtsw. Type the number and press the ENTER");
-
-                
-                if (!int.TryParse(Console.ReadLine(), out int number)) // inputs verification for been numbers.
+                if (!int.TryParse(inputReader.ReadLine(), out int number) || number <= 0)
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                    outputWriter.WriteLine("Invalid input. Please enter a valid integer.");
 
-                    attempts--;
+                    Attempts--;
                     continue;
                 }
 
                 if (number == targetNumber)
                 {
-                    Console.WriteLine($"Congratulations! You guessed the number {targetNumber} in {attempts} attempts.");
+                    outputWriter.WriteLine($"Congratulations! You guessed the number {targetNumber} in {Attempts} attempts.");
                     break;
                 }
                 else if (number < targetNumber)
                 {
-                    Console.WriteLine("Your guess is too low. You may try again!");
+                    outputWriter.WriteLine("Your guess is too low. You may try again!");
                 }
                 else
                 {
-                    Console.WriteLine("Your guess is too high. You may try again!");
+                    outputWriter.WriteLine("Your guess is too high. You may try again!");
                 }
             }
 
-            if (attempts == allAttempts)
+            if (Attempts == allAttempts)
             {
-                Console.WriteLine($"Sorry, you have all {allAttempts} The guess number was {targetNumber}");
+                outputWriter.WriteLine($"Sorry, you have used all {allAttempts} attempts. The guess number was {targetNumber}");
             }
-            Console.ReadLine(); 
         }
-    }
-   
 
-  
+        public static void Main(string[] args)
+        {
+       
+
+            Console.WriteLine("Hi, this is the Guess the Number game!");
+            Console.WriteLine("A number from 1 to 100 inclusive was guessed. You have 10 attempts. Try to guess the number!");
+
+            int targetNumber = MyRandom();
+
+            PlayGame(targetNumber, 10, Console.In, Console.Out);
+
+            Console.ReadLine();
+        }
+
+        
+    }
 }
+
+
+
+
+
